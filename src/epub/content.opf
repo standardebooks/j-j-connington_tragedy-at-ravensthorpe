@@ -46,18 +46,17 @@
 		<meta property="term" refines="#subject-5">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Mystery</meta>
-		<dc:description id="description">A masquerade ball at an English country estate is interrupted by brazen theft, costumed revelers chase the thief who impossibly vanishes; just the start of a series of mysterious events puzzling Chief Constable Sir Clinton Driffield.</dc:description>
+		<dc:description id="description">A masquerade ball at an English country estate is interrupted by brazen theft, costumed revelers chase the thief who impossibly vanishes, investigation into these and further mysterious events ensues.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;During a masquerade ball at an English country estate with a valuable collection of artifacts on display there is a shot, the lights go out, and robbery ensues followed by an entertaining unsuccessful chase of the thief by costumed revelers. Chief Constable Sir Clinton Driffield’s investigation discovers the robbery was planned as a practical joke that has gone awry. There are conflicting clues, unclear motives, then deaths which may or may not be related to the theft.&lt;/p&gt;
-			&lt;p&gt;The English country estate has interesting features such as “fairy houses” maintained through generations due to a clause in each will, a family curse, a museum for the artifacts, secret passages, ruins, and an old quarry sourced for construction of the mansion. The character’s relationships are complicated with unusual qualities. Reading with the closest attention may not facilitate solving the case before Driffield reveals all.&lt;/p&gt;
-			&lt;p&gt;This is the second novel from &lt;a href="https://standardebooks.org/ebooks/j-j-connington"&gt;J. J. Connington&lt;/a&gt;, a pseudonym for Alfred Walter Stewart, that features Chief Constable Sir Clinton Driffield. The character was introduced in &lt;i&gt;Murder in the Maze&lt;/i&gt;, published 1927. The series included 17 novels with the last, &lt;i&gt;Common Sense Is All You Need&lt;/i&gt;, published 1947. &lt;i&gt;Tragedy at Ravensthorpe&lt;/i&gt; was first published by Ernest Benn, London, 1927. The first American edition was published by Little, Brown &amp;amp; Co., Boston, 1928, then by Grosset &amp;amp; Dunlap, New York, 1928.&lt;/p&gt;
+			&lt;p&gt;The English country estate has interesting features such as “fairy houses” maintained through generations due to a clause in each will, a family curse, a museum for the artifacts, secret passages, ruins, and an old quarry sourced for construction of the mansion. The character’s relationships are complicated with unusual qualities.&lt;/p&gt;
+			&lt;p&gt;This is the second novel from &lt;a href="https://standardebooks.org/ebooks/j-j-connington"&gt;J. J. Connington&lt;/a&gt;, a pseudonym for Alfred Walter Stewart, that features Chief Constable Sir Clinton Driffield. The character was introduced in &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/j-j-connington/murder-in-the-maze"&gt;Murder in the Maze&lt;/a&gt;&lt;/i&gt;, with 17 novels in the Driffield series.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<!--Transcription-->
 		<dc:source>https://www.gutenberg.org/ebooks/75407</dc:source>
 		<!--Google scans-->
 		<dc:source>https://www.google.com/books/edition/Tragedy_at_Ravensthorpe/AsNHAAAAYAAJ</dc:source>
-		<meta property="se:production-notes">Page scans of the Grosset &amp; Dunlap 1928 edition were provided by Brian Raiter. Google Books scans of the same edition were compared whenever punctuation marks, or characters were unreadable or partially obscured.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Tragedy_at_Ravensthorpe</meta>
