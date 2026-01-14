@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/j-j-connington/tragedy-at-ravensthorpe</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2026-01-14T22:49:35Z</dc:date>
+		<meta property="dcterms:modified">2026-01-14T22:49:35Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -46,19 +46,21 @@
 		<meta property="term" refines="#subject-5">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Mystery</meta>
-		<dc:description id="description">A masquerade ball at an English country estate is interrupted by brazen theft, costumed revelers chase the thief who impossibly vanishes, investigation into these and further mysterious events ensues.</dc:description>
+		<meta id="collection-1" property="belongs-to-collection">Sir Clinton Driffield</meta>
+		<meta property="collection-type" refines="#collection-1">series</meta>
+		<meta property="group-position" refines="#collection-1">2</meta>
+		<dc:description id="description">Chief Constable Sir Clinton Driffield investigates the theft of valuables from a country estate after a masquerade ball.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;During a masquerade ball at an English country estate with a valuable collection of artifacts on display there is a shot, the lights go out, and robbery ensues followed by an entertaining unsuccessful chase of the thief by costumed revelers. Chief Constable Sir Clinton Driffield’s investigation discovers the robbery was planned as a practical joke that has gone awry. There are conflicting clues, unclear motives, then deaths which may or may not be related to the theft.&lt;/p&gt;
-			&lt;p&gt;The English country estate has interesting features such as “fairy houses” maintained through generations due to a clause in each will, a family curse, a museum for the artifacts, secret passages, ruins, and an old quarry sourced for construction of the mansion. The character’s relationships are complicated with unusual qualities.&lt;/p&gt;
-			&lt;p&gt;This is the second novel from &lt;a href="https://standardebooks.org/ebooks/j-j-connington"&gt;J. J. Connington&lt;/a&gt;, a pseudonym for Alfred Walter Stewart, that features Chief Constable Sir Clinton Driffield. The character was introduced in &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/j-j-connington/murder-in-the-maze"&gt;Murder in the Maze&lt;/a&gt;&lt;/i&gt;, with 17 novels in the Driffield series.&lt;/p&gt;
+			&lt;p&gt;During a masquerade ball at an English country estate with a valuable collection of artifacts on display there is a shot, the lights go out, and a robbery ensues. It’s soon followed by an entertaining, if unsuccessful, chase of the thief by the costumed revelers. &lt;a href="https://standardebooks.org/collections/sir-clinton-driffield"&gt;Chief Constable Sir Clinton Driffield’s&lt;/a&gt; investigation discovers the robbery was planned as a practical joke that has gone awry. There are conflicting clues, unclear motives, and then even deaths which may or may not be related to the theft.&lt;/p&gt;
+			&lt;p&gt;The country estate is a charming character in its own right, with interesting features like “fairy houses” maintained through generations due to a clause a will, a family curse, a museum for precious artifacts, secret passages, ruins, and an old quarry.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<!--Transcription-->
 		<dc:source>https://www.gutenberg.org/ebooks/75407</dc:source>
 		<!--Google scans-->
 		<dc:source>https://www.google.com/books/edition/Tragedy_at_Ravensthorpe/AsNHAAAAYAAJ</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">70640</meta>
+		<meta property="se:reading-ease.flesch">75.71</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Tragedy_at_Ravensthorpe</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/j-j-connington_tragedy-at-ravensthorpe</meta>
 		<dc:creator id="author">J. J. Connington</dc:creator>
@@ -80,6 +82,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Vince Rice</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Rice, Vince</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.brokenandsaved.com/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
