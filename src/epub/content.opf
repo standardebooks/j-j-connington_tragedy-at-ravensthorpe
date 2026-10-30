@@ -71,8 +71,8 @@
 		<link href="https://en.wikipedia.org/wiki/Alfred_Walter_Stewart" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/no90020738.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">Leon Louis desRosiers, Sr.</dc:contributor>
-		<meta property="file-as" refines="#artist">desRosiers, Leon Louis, Sr.</meta>
+		<dc:contributor id="artist">Leon Louis desRosiers Sr.</dc:contributor>
+		<meta property="file-as" refines="#artist">desRosiers, Leon Louis Sr.</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Brian Raiter</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Raiter, Brian</meta>
